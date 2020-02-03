@@ -1,0 +1,45 @@
+.carousel-item{
+    max-height: 100%;
+ }
+ body{
+     height: 4700px;
+ }
+ .container{
+     margin-top: 50px;
+ }
+ .header-wraper{
+         position: fixed;
+         top: 0;
+         left: 0;
+         width: 100%;
+         background:gray;
+         padding: 10px;
+         z-index: 10;
+ }
+ .container-nav{
+     margin-top: 100px;
+ }
+ .navbar-brand img{
+     height: 2rem;
+ 
+ }
+ .slaider{
+     margin-top: 50px;
+ }
+.page{
+    margin-top: 100px;
+}
+.imagee{
+    margin-top: 200px;
+}
+.video-fluid {
+    width: 100%;
+    height: auto;
+  }
+  .video{
+      margin-top: 200px;
+  }
+  .about{
+      margin-top: 300px;
+  }
+  
